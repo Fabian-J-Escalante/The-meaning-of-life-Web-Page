@@ -1,0 +1,12 @@
+p {
+  color: black;
+  font-size: 112%;
+  font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+  color: white;
+  font-size: 155%;
+  text-align: center;
+  background-color:DarkRed;
+}
